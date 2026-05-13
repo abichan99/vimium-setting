@@ -1,0 +1,9 @@
+# switch J,K with H,L
+unmap H
+unmap J
+unmap K
+unmap L
+map H previousTab
+map L nextTab
+map J goBack
+map K goForward
